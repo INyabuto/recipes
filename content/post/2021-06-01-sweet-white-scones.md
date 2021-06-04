@@ -1,5 +1,5 @@
 ---
-title: Celebrating Madaraka Day with Soft Spongy and Testier Scones
+title: Celebrating Madaraka Day with Soft Spongy and Tastier Scones
 author: ~
 date: '2021-06-01'
 slug: sweet-white-scones
@@ -11,7 +11,7 @@ tags: []
 
 __As we celebrate this Madaraka day, I thought to try out something new with my family. This is not so new as such, it is something that I have ever tried but after a very long time, and with very little hopes of getting back to it again, baking!__
 
-I wanted to learn how to bake scones, not just any other scones but soft, spongy, and testier scones to serve for breakfast.
+I wanted to learn how to bake scones, not just any other scones but soft, spongy, and testier scones to serve for [breakfast](www.htmls.com). 
 
 Here is what I did differently, and surprisingly, it turned out to be the softer, spongier, and testier scones ever made at our house!
 

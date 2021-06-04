@@ -5,16 +5,24 @@ theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+enableEmoji = true
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
-
+    
+#[[menu.main]]
+#    name = "Recipes"
+#    url = "/"
+#    weight = 1
+    
 [[menu.main]]
     name = "About"
     url = "/about/"
+    weight = 2
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/INyabuto"
+    weight = 3
 
 [params]
     description = "A collection of my favourite home-made recipes"
@@ -30,6 +38,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 
     # path to the favicon, under "static"
     favicon = "favicon.ico"
+    
 
     [params.logo]
     url = "logo.png"
