@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ![](/post/2021-06-01/sweet-scone/sweet-scone.jpeg)
-___These simple white scones are similar to bread but softer and spongier. They taste like swiss rolls, and are great for sandwiches too. They can be served with any toppings during breakfast or dinner.___
+___These simple white scones are similar to bread but softer and spongier. They taste like swiss rolls and are great for sandwiches. They can be served with any toppings for breakfast or dinner.___
 
 ### Ingredients
 
