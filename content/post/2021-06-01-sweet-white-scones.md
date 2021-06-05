@@ -5,6 +5,8 @@ date: '2021-06-01'
 slug: sweet-white-scones
 categories: []
 tags: []
+bibliography: [Saturday_Kitchen_copy.bib]
+link-citations: true
 ---
 
 ![](/post/2021-06-01/sweet-scone/sweet-scone.jpeg)
@@ -13,7 +15,7 @@ __As we celebrate this Madaraka day, I thought to try out something new with my 
 
 I wanted to learn how to bake scones, not just any other scones but soft, spongy, and testier scones to serve for [breakfast](www.htmls.com). 
 
-Here is what I did differently, and surprisingly, it turned out to be the softer, spongier, and testier scones ever made at our house!
+Here is what I did differently, and surprisingly, it turned out to be the softer, spongier, and testier scones ever made at our house! [@2014saturday]
 
 - I used the right amounts of yeast. Yeast is what causes the dough to rise. Too much of it will not make the dough to rise higher. A good amount is 10g of instant yeast per 1 kg of flour, one of the chefs told me at the supermarket. 
 - I also used the right amount of oil and sugar. A good mixture of oil and sugar can improve the rising of the dough and the general texture of the scones. Too much of it isn’t good either. It can stop the dough from getting to its optimum size, resulting in dense or heavy scones.

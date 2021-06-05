@@ -1,0 +1,50 @@
+---
+title: "Easy homemade scones"
+author: "Isaiah Nyabuto"
+date: "2021-06-01"
+output: html_document
+bibliography: [Saturday_Kitchen_copy.bib, home_made_bread.bib]
+link-citations: true
+nocite: |
+    @2019easybread
+    @2014saturday
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](/post/2021-06-01/sweet-scone/sweet-scone.jpeg)
+___These simple white scones are similar to bread but softer and spongier. They taste like swiss rolls, and are great for sandwiches too. They can be served with any toppings during breakfast or dinner.___
+
+### Ingredients
+
+- 2 eggs
+- 2 cups warm water, slightly more than look warm, (45°c)
+- 1/4 cup of sugar (4 tablespoon)
+- 10g instant dry yeast (approx. 2 tablespoon)
+- 1 teaspoon salt
+- 1/4 cup vegetable oil
+- 4 cups of All purpose flour
+- 2 tablespoon dried milk
+- 1 tablespoon citrus fruit juice (Vitamin C)
+
+### Steps
+
+Dissolve the yeast in warm water, add in sugar, salt and the vegetable oil. Stir in the dried milk and mix with the citrus fruit juice. Add the flour one cup at a time and keep mixing with small amounts of beaten eggs. 
+
+Kneed the dough for 8 - 10 mins. Place it in an oiled plastic bowl and cover it with a dump clothe. Let it rise for 1 - 2 hours, or until it has doubled its size. 
+
+Punch down the dough once and kneed for 1 minute. Divide into small pieces and shape to form the round scones. Place the shaped scones into a greased pan. Cover the pan and let it rise for 30 mins or until its risen by 1 inch. 
+
+Bake at 175°c for 30 - 40 mins, or until cooked. Cool on wire rack, brush with some butter and enjoy! 
+
+::: {.infobox .caution}
+
+**TIP**
+
+You can use either ginger or potato water in place of citrus fruit juice or the dried milk. They both have what we are looking for, the vitamin C!
+
+:::
+
+### References

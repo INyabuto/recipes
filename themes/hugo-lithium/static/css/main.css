@@ -60,6 +60,8 @@ img {
   float: left;
   margin-top: -11px;
   transition: transform 150ms ease-out;
+  
+  
 }
 
 .nav-logo:hover {
@@ -68,7 +70,7 @@ img {
 
 .nav-logo img {
   display: block;
-  max-height: 40px;
+  max-height: 40px; /* default 40px */
   width: auto;
   border-radius: 50%;
 }
@@ -326,4 +328,17 @@ img {
   .article-content a {
     box-shadow: none;
   }
+}
+
+
+.infobox {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  border: 2px solid orange;
+  border-radius: 10px;
+  background: #f5f5f5 5px center/3em no-repeat;
+}
+
+.caution {
+  background-image: url("images/tip.png");
 }
