@@ -1,8 +1,8 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Favourite Recipes"
+title = "All time family recipes"
 theme = "hugo-lithium"
-googleAnalytics = ""
+googleAnalytics = "274869077"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
@@ -25,7 +25,7 @@ enableEmoji = true
     weight = 3
 
 [params]
-    description = "A collection of my favourite home-made recipes"
+    description = "A collection of our favourite home-made recipes"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
