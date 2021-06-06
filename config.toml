@@ -25,7 +25,7 @@ enableEmoji = true
     weight = 3
 
 [params]
-    description = "A collection of our favourite home-made recipes"
+    description = "A collection of all our favourites homemade family recipes"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
