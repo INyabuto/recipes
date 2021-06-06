@@ -10,5 +10,5 @@ So we decided to be listing everything here :blush:
 
 You are much welcomed to try these simple recipes and please, let us know how it turned out, and if in case you have something we should add in the list. 
 
-The list will keep growing as we keep on growing! :smile:
+The list will keep growing as we keep on growing together! :smile:
 
